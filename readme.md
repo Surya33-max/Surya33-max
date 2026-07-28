@@ -209,7 +209,6 @@ strength: KPI dashboard by morning, landing-page fix by afternoon
 ## 📫 Let's Connect
 
 <a href="mailto:suryalh44@gmail.com"><img src="https://img.shields.io/badge/Email-suryalh44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919445208067"><img src="https://img.shields.io/badge/Phone-%2B91%2094452%2008067-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/surya-g-b08a83215"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 *Open to Digital Marketing Executive & Marketing Analyst opportunities.*
