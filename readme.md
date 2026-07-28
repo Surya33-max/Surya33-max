@@ -1,237 +1,99 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Surya G</h1>
+<h3 align="center">Business Management | Digital Transformation | Marketing & Analytics</h3>
 
-# 📈 StockVision AI
-
-### AI-Powered Stock Market Analysis Platform
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Real-Time+Market+Insights;AI-Powered+Stock+Analysis;Portfolio+Tracking+%26+Financial+Analytics" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-g-b08a83215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:suryalh44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://suryas-portfolio-site-77.webflow.io/"><img src="https://img.shields.io/badge/Portfolio-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"></a>
+  <a href="https://portfoliosite-ashen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![License](https://img.shields.io/badge/License-MIT-success)
+---
 
-### 🔗 Links
+### 🚀 About Me
 
-🌐 **Live Demo:** https://stockvision-ai-4om3.onrender.com/
+Results-driven **MBA graduate (Marketing & IT Analytics)** with a **B.Sc. in Computer Science**, bringing a cross-functional foundation in digital strategy, business management, and analytics. I've led B2B consultative outreach with 80+ client organizations, run digital visibility audits, and turned raw operational data into growth-focused strategy using **GA4, Power BI, and Excel**.
 
-💼 **Portfolio:** https://portfoliosite-ashen.vercel.app/
+I sit at the intersection of **marketing, analytics, and technology** — comfortable presenting a KPI dashboard to a stakeholder in the morning and shipping a landing page fix in the afternoon.
 
-🎨 **Portfolio (Webflow):** https://suryas-portfolio-site-77.webflow.io/
-
-⭐ If you like this project, consider giving it a star!
-
-</div>
+- 🎯 Currently open to **Digital Marketing Executive / Marketing Analyst** roles
+- 📊 Focused on **GA4, GTM, SEO, and conversion funnel optimization**
+- 🎨 Also build interactive web experiences (Figma → Framer → production)
+- 📍 Based in Chennai, Tamil Nadu, India
 
 ---
 
-# 📖 About
+### 🛠️ Skills
 
-StockVision AI is a financial analytics platform built with **Python** and **Flask** that combines stock market data, portfolio management, financial news, and AI-powered insights into a single application.
+**Business & Strategy**
+`Digital Business Audits` `B2B Stakeholder Management` `Consultative Needs Assessment` `Process Optimization` `Requirements Gathering` `KPI Frameworks` `Lead Generation`
 
-The project focuses on delivering an intuitive experience for exploring market trends, monitoring investments, and visualizing financial data.
+**Analytics & Visualization**
+![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-# ✨ Features
-
-| Feature | Description |
-|---------|-------------|
-| 📈 Market Dashboard | Live stock prices and market overview |
-| 📊 Historical Analysis | Interactive price history charts |
-| 🤖 AI Prediction | Machine learning-based forecasting |
-| 💼 Portfolio Tracker | Monitor investments and performance |
-| 📰 Financial News | Latest business and market headlines |
-| 🔍 Stock Search | Search companies instantly |
-| 📉 Market Trends | Technical insights and analytics |
-
----
-
-# 🛠 Tech Stack
-
-### Backend
-
-- Python
-- Flask
-- Pandas
-- NumPy
-- yFinance
-- Feedparser
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Jinja2
-
-### Visualization
-
-- Chart.js
-- Plotly
+**Digital Platforms & Design**
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
-# 🏗 Architecture
+### 💼 Professional Experience
 
-```text
-                User
-                  │
-                  ▼
-          Flask Web Application
-                  │
-      ┌───────────┼───────────┐
-      │           │           │
-      ▼           ▼           ▼
-  Market API   AI Engine   Portfolio
-      │           │           │
-      └───────────┼───────────┘
-                  ▼
-           Interactive Dashboard
-```
+**Business Development Executive** — Meritus AI Learning Experiences Pvt Ltd *(May 2026 – Jul 2026)*
+- Drove B2B consultative outreach to School Directors and Principals for AI-powered EdTech adoption
+- Conducted client needs assessments and scheduled product demonstrations
+- Managed lead qualification and pipeline tracking using CRM tools
 
----
+**E-Commerce & Digital Marketing Intern** — Thrise (RB Sorting Hat Pvt Ltd) *(Feb 2026 – Apr 2026)*
+- Managed Shopify catalog architecture, inventory, and landing page optimization
+- Implemented GA4 + GTM tracking taxonomies for user behavior and conversion analysis
+- Executed on-page SEO, metadata structuring, and URL mapping
 
-# 📂 Project Structure
+**Digital Marketing & Audit Intern** — Promanage (Sulekha) *(Jun 2025 – Jul 2025)*
+- Audited digital presence and brand positioning for 20+ business entities
+- Built Excel KPI dashboards for local search ranking and performance tracking
+- Formulated targeted SEO recommendations for local visibility
 
-```text
-StockVision-AI
-│
-├── app.py
-├── config.py
-├── requirements.txt
-│
-├── src/
-│   ├── routes.py
-│   ├── stock_service.py
-│   ├── portfolio_service.py
-│   ├── prediction_service.py
-│   ├── news_service.py
-│   └── market_service.py
-│
-├── static/
-├── templates/
-├── dataset/
-└── saved_models/
-```
+**Web Designer Intern** — Exposys Data Labs *(Mar 2023 – Apr 2023)*
+- Built responsive front-end pages using HTML/CSS with cross-browser UI/UX consistency
 
 ---
 
-# 🚀 Getting Started
+### 🧩 Featured Projects
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Surya33-max/StockVision-AI.git
-
-cd StockVision-AI
-```
-
-### Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-### Activate it
-
-Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Linux/macOS
-
-```bash
-source venv/bin/activate
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-python app.py
-```
-
-Open:
-
-```
-http://127.0.0.1:5000
-```
+| Project | Description | Links |
+|---|---|---|
+| **StockVision AI** | AI-powered stock analysis / prediction web app | [🔗 Live](https://stockvision-ai-4om3.onrender.com) |
+| **Portfolio Site (Webflow)** | Personal portfolio built and designed in Webflow | [🔗 Live](https://suryas-portfolio-site-77.webflow.io/) |
+| **Portfolio Site (Vercel)** | Personal portfolio, code-based deployment | [🔗 Live](https://portfoliosite-ashen.vercel.app/) |
+| **Marketing Analytics & E-Commerce Optimization** | GA4 goal tracking + GTM event containers modeling user journeys; interactive Excel KPI dashboards | Personal Project, 2026 |
+| **UI/UX & Motion Design Portfolio** | Interactive prototypes in Figma/Adobe XD; responsive Framer landing pages with motion assets | Design & Web Strategy, 2026 |
+| **Tours & Travels Booking Website** | Database-driven travel booking app using HTML, CSS, and MySQL | UG Final Year Project, 2024 |
 
 ---
 
-# 📸 Screenshots
+### 🎓 Education
 
-> Replace these with your own screenshots.
-
-| Dashboard | Portfolio |
-|-----------|-----------|
-| ![](assets/dashboard.png) | ![](assets/portfolio.png) |
-
-| Prediction | Market Overview |
-|------------|-----------------|
-| ![](assets/prediction.png) | ![](assets/market.png) |
+- **MBA — Marketing & IT Analytics**, Sri Sairam Engineering College, Chennai *(Aug 2024 – Jun 2026)*
+- **B.Sc. — Computer Science**, Guru Nanak College, Chennai *(Sep 2021 – Jun 2024)*
 
 ---
 
-# 🎯 Future Improvements
+### 📫 Let's Connect
 
-- User Authentication
-- Personalized Watchlists
-- Real-Time Notifications
-- Advanced Technical Indicators
-- AI Recommendation Engine
-- Cloud Database Integration
+<p>
+  <a href="mailto:suryalh44@gmail.com">suryalh44@gmail.com</a> ·
+  <a href="tel:+919445208067">+91 94452 08067</a> ·
+  <a href="https://www.linkedin.com/in/surya-g-b08a83215">LinkedIn</a> ·
+  Chennai, Tamil Nadu, India
+</p>
 
----
-
-# 📚 What I Learned
-
-This project strengthened my understanding of:
-
-- Full-Stack Web Development
-- Financial Data Processing
-- API Integration
-- Machine Learning Workflows
-- Interactive Data Visualization
-- Flask Application Architecture
-- Deployment using Render
-
----
-
-# 👨‍💻 About Me
-
-**Surya G**
-
-MBA – Marketing & IT Analytics
-
-I'm passionate about building data-driven digital products that combine analytics, AI, and business strategy to solve real-world problems.
-
-**Interests**
-
-- Marketing Analytics
-- UI/UX Design
-- Growth Marketing
-- Business Intelligence
-- SaaS
-- AI Applications
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-If you found this project interesting, don't forget to ⭐ the repository.
-
-</div>
+<p align="center"><i>Open to Digital Marketing Executive & Marketing Analyst opportunities.</i></p>
