@@ -100,25 +100,35 @@ strength: KPI dashboard by morning, landing-page fix by afternoon
 </tr>
 </table>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Surya33-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Surya33-max&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya33-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya33-max&theme=tokyo-night&hide_border=true&area=true" height="160"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya33-max&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Surya33-max&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya33-max&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
 ---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya33-max&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya33-max&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
 
 ## 💼 Professional Experience
 
